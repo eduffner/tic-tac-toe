@@ -470,6 +470,7 @@
 				645D42CA19D9043600F41B1D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		645D42CB19D9043600F41B1D /* Build configuration list for PBXNativeTarget "Duffner-Lab3Tests" */ = {
 			isa = XCConfigurationList;
@@ -478,6 +479,7 @@
 				645D42CD19D9043600F41B1D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
